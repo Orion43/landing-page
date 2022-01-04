@@ -43,6 +43,7 @@ img {
 .container-hero .lft{
     flex-wrap: wrap;
     max-width: 400px;
+    margin: 20px;
   }
 
 button.solid {
@@ -124,7 +125,7 @@ button.solid {
     justify-content: center; 
     align-items: center;
     padding: 20px 40px;
-    gap: 30px;
+    gap: 56px;
   }
 
   .CTA-button{
@@ -136,9 +137,14 @@ button.solid {
     justify-content: flex-end; 
     align-items: flex-end;
     display: flex;
-  */
+    */
+  
   }
 
+  div h3{
+    margin: 0px;
+  }
+  
   footer{
     background-color: #1f2937;
     color: #e5e7eb;
