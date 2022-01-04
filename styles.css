@@ -95,7 +95,7 @@ button.solid {
   .quote-holder{
     /* text-align: center; */
      margin: 20px;
-     padding: 40px 240px;
+     padding: 40px 40px; 
    }
    
    .quote {
@@ -107,6 +107,7 @@ button.solid {
    .author{
      font-weight: bold;
      text-align: end;
+     display: block;
      /* padding: 20px; */
    }
 
